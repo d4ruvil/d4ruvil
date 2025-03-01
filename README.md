@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm Dhruvil Kundaliya, a Cyber Security Enthusiast and Full Stack Developer currently pursuing my BSc. IT degree. I'm passionate about building secure applications and developing tools that enhance cybersecurity. Currently working as a Cyber Security Analyst intern, I combine my development skills with security expertise to create robust solutions.
+I'm d4ruvil, a Cyber Security Enthusiast and Full Stack Developer currently pursuing my BSc. IT degree. I'm passionate about building secure applications and developing tools that enhance cybersecurity. Currently working as a Cyber Security Analyst intern, I combine my development skills with security expertise to create robust solutions.
 
 ### 🎯 Current Focus
 
